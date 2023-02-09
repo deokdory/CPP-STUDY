@@ -2,6 +2,9 @@
 #include "Task_OOP.h"
 
 int main() {
-	CatClass();
+	//CatClass(); //0208
+	Overloading();
+	ClassNew();
+
 	return 0;
 }

@@ -1,5 +1,7 @@
 #pragma once
 
+#define SQR(x) (x)*(x)
+
 struct Band
 {
 	string Name;
@@ -23,3 +25,5 @@ int add(int a, int b);
 float add(int a, float b);
 float add(float a, int b);
 float add(float a, float b);
+
+inline int Inline(int a, int b) { return a + b; }

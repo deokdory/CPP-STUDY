@@ -58,6 +58,8 @@ void Reference()
 		band.Song = "Drama";
 		StructReference(band);
 	}
+
+	cout << SQR(3+3) << endl;
 }
 
 void DoReference(int& a, int& b)

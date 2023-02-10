@@ -20,8 +20,13 @@ int main()
 	//
 	//	Reference();
 	//}
-	Caculator();
+	//Caculator();
+	Constructor();
 
+	//Task
+	{
+	//	CarClass();
+	}
 	return 0;
 }
 

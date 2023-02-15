@@ -111,4 +111,3 @@ void String::copy_string(const String& s) {
 const void String::print_string() { cout << str << endl; }
 
 const int String::strlen() { return length; }
-

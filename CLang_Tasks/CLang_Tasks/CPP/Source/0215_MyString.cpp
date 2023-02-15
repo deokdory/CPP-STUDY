@@ -69,6 +69,7 @@ String::String(const String& s) {
 
 
 String::~String() {
+  cout << "¼Ò¸êÀÚ È£ÃâµÊ" << endl;
   if (str != NULL) delete[] str;
 }
 

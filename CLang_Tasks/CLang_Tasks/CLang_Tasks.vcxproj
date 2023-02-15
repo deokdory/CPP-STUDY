@@ -142,11 +142,17 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CPP\Source\0208_Class.cpp" />
+    <ClCompile Include="CPP\Source\0209_Class_2.cpp" />
+    <ClCompile Include="CPP\Source\0209_Overloading.cpp" />
+    <ClCompile Include="CPP\Source\0215_MyString.cpp" />
     <ClCompile Include="CPP\Source\stdafx.cpp" />
     <ClCompile Include="CPP\Source\Task_OOP.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CPP\Header\0208_Class.h" />
+    <ClInclude Include="CPP\Header\0209_Class_2.h" />
+    <ClInclude Include="CPP\Header\0209_Overloading.h" />
+    <ClInclude Include="CPP\Header\0215_MyString.h" />
     <ClInclude Include="CPP\Header\stdafx.h" />
     <ClInclude Include="CPP\Header\Task_OOP.h" />
   </ItemGroup>

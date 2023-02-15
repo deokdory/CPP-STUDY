@@ -147,7 +147,13 @@
     <ClInclude Include="CPP\Header\03_Class.h" />
     <ClInclude Include="CPP\Header\04_New.h" />
     <ClInclude Include="CPP\Header\05_Function.h" />
+    <ClInclude Include="CPP\Header\06_Constructor.h" />
+    <ClInclude Include="CPP\Header\07_Const.h" />
+    <ClInclude Include="CPP\Header\09_Casting.h" />
+    <ClInclude Include="CPP\Header\10_Interface.h" />
+    <ClInclude Include="CPP\Header\12_SingletonPattern.h" />
     <ClInclude Include="CPP\Header\stdafx.h" />
+    <ClInclude Include="CPP\Source\11_Static.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CPP\Source\00_OOP.cpp" />
@@ -156,6 +162,12 @@
     <ClCompile Include="CPP\Source\03_Class.cpp" />
     <ClCompile Include="CPP\Source\04_New.cpp" />
     <ClCompile Include="CPP\Source\05_Function.cpp" />
+    <ClCompile Include="CPP\Source\06_Constructor.cpp" />
+    <ClCompile Include="CPP\Source\07_Const.cpp" />
+    <ClCompile Include="CPP\Source\09_Casting.cpp" />
+    <ClCompile Include="CPP\Source\10_Interface.cpp" />
+    <ClCompile Include="CPP\Source\11_Static.cpp" />
+    <ClCompile Include="CPP\Source\12_SingletonPattern.cpp" />
     <ClCompile Include="CPP\Source\stdafx.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

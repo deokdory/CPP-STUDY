@@ -21,8 +21,11 @@ int main()
 	//	Reference();
 	//}
 	//Caculator();
-	Constructor();
-
+	//Constructor();
+	//Casting();
+	//Interface();
+	//Static();
+	Singleton();
 	//Task
 	{
 	//	CarClass();

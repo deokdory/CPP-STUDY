@@ -11,6 +11,7 @@
 using namespace std;
 
 #define endll endl << endl
+#define ENDL cout << endl
 
 /*
 미리 컴파일된 헤더
